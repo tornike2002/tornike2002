@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Book Shop.<br>🤝 I’m looking for help with Backend.<br>🌱 I’m currently learning React/NextJs.<br>💬 Ask me about anything related to programming!<br>⚡ Fun fact, I started coding in 2020. Despite numerous moments of <br>      giving up, today I find myself grinding to reach the top.
+🔭 I’m currently working to learn nextjs better.<br>🤝 I’m looking for help with Backend.<br>🌱 I’m currently learning React/NextJs.<br>💬 Ask me about anything related to programming!<br>⚡ Fun fact, I started coding in 2020. Despite numerous moments of <br>      giving up, today I find myself grinding to reach the top.
 
 
 ## 🌐 Socials:
