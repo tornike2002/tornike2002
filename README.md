@@ -1,5 +1,5 @@
 # 💫 Hi I'm Tornike Butiashvili Full Stack Engineer:
-🔭 I’m currently working to become Fullstack Developer.<br>🌱 I’m currently learning NodeJs.<br>💬 Ask me about anything, I will be happy to help you.<br>⚡ Fun fact Fundamental knowledge is more valuable than knowing only frameworks.
+🔭 I’m currently working to become Fullstack Developer.<br>🌱 I’m currently learning NestJs<br>💬 Ask me about anything, I will be happy to help you.<br>⚡ Fun fact Fundamental knowledge is more valuable than knowing only frameworks.
 
 
 ## 🌐 Socials:
